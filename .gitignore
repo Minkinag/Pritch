@@ -2,7 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Plugins
+/Plugins
 .vscode
 .vs
 *.VC.db
